@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/codica/static/css/main.e6c13ad2.css",
-    "main.js": "/codica/static/js/main.bc17c59d.js",
+    "main.js": "/codica/static/js/main.2e7d85bb.js",
     "index.html": "/codica/index.html",
     "main.e6c13ad2.css.map": "/codica/static/css/main.e6c13ad2.css.map",
-    "main.bc17c59d.js.map": "/codica/static/js/main.bc17c59d.js.map"
+    "main.2e7d85bb.js.map": "/codica/static/js/main.2e7d85bb.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bc17c59d.js"
+    "static/js/main.2e7d85bb.js"
   ]
 }
