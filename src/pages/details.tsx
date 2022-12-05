@@ -6,7 +6,7 @@ import {toСel} from "../utils/temp";
 
 export const Details = () => {
     const forecast: any = useAppSelector((state) => state.weather.details)
-    console.log(forecast)
+
     return (
         <Box>
             <Typography>{forecast.name}</Typography>

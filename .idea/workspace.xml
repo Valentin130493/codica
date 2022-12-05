@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30f72627-d65b-4a77-b68c-6eef08ee4cfb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/weatherCard/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/weatherCard/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/details.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/details.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/routes.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../getwin/package.json" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\tests\codica\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -47,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670225034702</updated>
       <workItem from="1670225037890" duration="1645000" />
-      <workItem from="1670231192004" duration="3105000" />
+      <workItem from="1670231192004" duration="3705000" />
     </task>
     <servers />
   </component>
