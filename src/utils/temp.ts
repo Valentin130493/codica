@@ -1,0 +1,1 @@
+export const toСel = (temp:number) => Math.floor(temp - 273)
