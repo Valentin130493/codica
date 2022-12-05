@@ -15,7 +15,7 @@ export const WeatherCard: React.FC<any> = ({item}) => {
 
     const getDetails = (name: string) => {
         dispatch(getCityForecast(name))
-        navigate(`/${name}`);
+        navigate(`/details/${name}`);
 
     }
     const handleRefresh = (e: any, name: string) => {

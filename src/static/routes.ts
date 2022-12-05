@@ -1,4 +1,4 @@
 export const routes = {
     layout: '/',
-    details: "/:city"
+    details: "details/:city"
 }
