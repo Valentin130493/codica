@@ -4,6 +4,7 @@
     <list default="true" id="30f72627-d65b-4a77-b68c-6eef08ee4cfb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/details.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/details.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/slices/citiesSlice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/slices/citiesSlice.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670225034702</updated>
       <workItem from="1670225037890" duration="1645000" />
-      <workItem from="1670231192004" duration="4121000" />
+      <workItem from="1670231192004" duration="5168000" />
     </task>
     <servers />
   </component>

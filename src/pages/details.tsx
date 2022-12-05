@@ -8,14 +8,14 @@ export const Details = () => {
     const forecast: any = useAppSelector((state) => state.weather.details)
 
     return (
-        <Box>
-            <Typography>{forecast?.name}</Typography>
-            <Typography>Temp:{toСel(forecast?.main.temp)}℃</Typography>
-            <Typography>Max temp: {toСel(forecast?.main.temp_max)}℃</Typography>
-            <Typography>Min temp: {toСel(forecast?.main.temp_min)}℃</Typography>
-            <Typography>Feel Like: {toСel(forecast?.main.feels_like)}℃</Typography>
-            <Typography>Wind speed: {forecast?.wind.speed}m/s</Typography>
-        </Box>
+        Object.keys(forecast).length === 0 ? (<Box>return and choose city</Box>) : (<Box>
+            <Typography>{forecast.name}</Typography>
+            <Typography>Temp:{toСel(forecast.main.temp)}℃</Typography>
+            <Typography>Max temp: {toСel(forecast.main.temp_max)}℃</Typography>
+            <Typography>Min temp: {toСel(forecast.main.temp_min)}℃</Typography>
+            <Typography>Feel Like: {toСel(forecast.main.feels_like)}℃</Typography>
+            <Typography>Wind speed: {forecast.wind.speed}m/s</Typography>
+        </Box>)
     );
 };
 

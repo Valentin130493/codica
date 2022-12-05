@@ -65,6 +65,9 @@ export const citiesSlice = createSlice({
         },
         deleteCity: (state, action) => {
             state.citiesWeather = state.citiesWeather.filter((city) => city.name !== action.payload)
+            state.cities = state.cities.filter((city)=> city !== action.payload)
+            localStorage.setItem('cities', JSON.stringify(state.cities));
+
         },
         getCityForecast: (state, action) => {
             state.details = state.citiesWeather.find((city) => city.name === action.payload)
