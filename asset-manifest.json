@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codica/static/css/main.e6c13ad2.css",
+    "main.js": "/codica/static/js/main.8b3d90fa.js",
+    "index.html": "/codica/index.html",
+    "main.e6c13ad2.css.map": "/codica/static/css/main.e6c13ad2.css.map",
+    "main.8b3d90fa.js.map": "/codica/static/js/main.8b3d90fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8b3d90fa.js"
+  ]
+}
